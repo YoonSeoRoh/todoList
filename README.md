@@ -1,2 +1,2 @@
-# todoList with React
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# todoList
+리액트 학습을 위한 투두리스트
